@@ -1,8 +1,4 @@
-function() {
-
-   
-
-
+(function() {
 
     const H = "nowlights-header";
     const C = "chegada-custom";
@@ -90,4 +86,4 @@ function() {
         }
         td.innerText = txt
     });
-}
+})();
