@@ -1,4 +1,4 @@
-javascript:(function(){
+function(){
 
     const COST = { wood:22960, stone:24600, iron:20500 };
     const CAP = 1000;
@@ -97,4 +97,4 @@ javascript:(function(){
       "ScriptBy: Nowlights"
     );
     
-    })();
+    }
