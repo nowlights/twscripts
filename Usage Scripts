@@ -1,0 +1,11 @@
+to test:
+
+javascript: (
+        // function here
+    )();
+
+
+
+to publish:
+
+javascript:$.getScript('URL CDN_DELIVR');

@@ -1,4 +1,4 @@
-function(){
+function set_coin(){
 
     
      // verificacao de redirecionamento
