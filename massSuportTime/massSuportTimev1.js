@@ -1,4 +1,4 @@
-javascript: (function() {
+function() {
     const H = "nowlights-header";
     const C = "chegada-custom";
     const velocidades = {
@@ -85,4 +85,4 @@ javascript: (function() {
         }
         td.innerText = txt
     });
-})();
+}
