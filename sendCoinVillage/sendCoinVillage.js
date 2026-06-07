@@ -1,4 +1,4 @@
-function set_coin(){
+(function(){
 
     
      // verificacao de redirecionamento
@@ -288,4 +288,4 @@ if (tabelaReferencia) {
 
     
     
-    }
+    })();
